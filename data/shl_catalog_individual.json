@@ -1,0 +1,113 @@
+[
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+      "assessment_name": "Automata Fix",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Technical"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "assessment_name": "Core Java Entry Level",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 40,
+      "remote_support": "Yes",
+      "test_type": [
+        "Knowledge & Skills"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+      "assessment_name": "Java 8",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 40,
+      "remote_support": "Yes",
+      "test_type": [
+        "Knowledge & Skills"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+      "assessment_name": "Core Java Advanced Level",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 40,
+      "remote_support": "Yes",
+      "test_type": [
+        "Knowledge & Skills"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+      "assessment_name": "Agile Software Development",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Competencies"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+      "assessment_name": "Technology Professional 8.0 Job Focused Assessment",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Competencies",
+        "Personality & Behaviour"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+      "assessment_name": "Computer Science",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Knowledge & Skills"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+      "assessment_name": "Entry Level Sales 7.1",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Sales"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+      "assessment_name": "Entry Level Sales Sift Out 7.1",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Sales"
+      ]
+    },
+    {
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+      "assessment_name": "Entry Level Sales Solution",
+      "adaptive_support": "No",
+      "description": "N/A",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": [
+        "Sales"
+      ]
+    }
+  ]
